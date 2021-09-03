@@ -1,0 +1,7 @@
+<launch>
+
+  <node name="test_base_controller" pkg="laser_line_extraction" type="test_base_controller" output="screen"/>
+
+
+</launch>
+
